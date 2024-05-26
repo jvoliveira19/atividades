@@ -8,7 +8,7 @@
     border: 1px solid #D4D4D4
 }
 .botao{
-   width: 100%;
+   width: 97%;
    padding: 12px 0px;
    background-color: #2d68fe;
    text-decoration: none;
@@ -39,10 +39,11 @@ a{
     line-height: 32px;
 }
 
-.img{
+img{
     width: 353px;
     height: 188px;
     border-radius: 4px 0px 0px 0px;
+    margin: 16px 0px 16px 16px;
 }
 .cardtitle{
     width: 639px;
@@ -51,10 +52,10 @@ a{
 
 @media screen and (max-width:786px){
        
-    .img{
+    img{
         width: 328px;
         height: 194px;
-        border-radius: 4px;
+
     }
     .botao{
         margin: 10px 0;
